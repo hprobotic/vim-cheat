@@ -3,6 +3,7 @@
 ### NERDTree
 
 | *Files* ||
+|---|---|
 | o: |open in prev window |
 | go:| preview |
 | t: |open in new tab |
