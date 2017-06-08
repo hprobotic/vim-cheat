@@ -2,7 +2,7 @@
 
 ### NERDTree
 
-| *Files* ||
+| **Files** ||
 |---|---|
 | o: |open in prev window |
 | go:| preview |
@@ -12,3 +12,11 @@
 | gi:| preview split |
 | s: |open vsplit |
 | gs:| preview vsplit |
+
+| **Directories** | |
+| --- | --- |
+| o: | open & close |
+| O: | recursively open |
+| x: | close parent |
+| X: | close all children recursively |
+| e: | explore selected dir |
